@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 
 """
-This program is designed to print proxies of custom Pokémon cards. To use, place the image files, either png or jpg, in the fol
+This program is designed to print proxies of custom Pokémon cards. To use, place the image files, either png or jpg, in the folder, then run the file using python3 with PIL and fpdf installed via pip3.
 """
 
 import os
