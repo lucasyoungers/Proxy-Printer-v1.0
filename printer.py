@@ -5,7 +5,6 @@ This program is designed to print proxies of custom Pokémon cards. To use, plac
 """
 
 import os
-import pathlib
 from time import time
 from PIL import Image
 from fpdf import FPDF
